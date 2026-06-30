@@ -1,0 +1,12 @@
+# Secrets — never commit the real token
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS AppleDouble (this drive is exFAT) + Finder cruft
+._*
+.DS_Store
